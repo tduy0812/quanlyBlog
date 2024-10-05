@@ -1,0 +1,18 @@
+.register-page {
+    background: url('../bg/bg.jpg') no-repeat center center fixed;
+    background-size: cover;
+    height: 100vh;
+}
+
+.register-form {
+    padding: 40px;
+    background-color: rgba(255, 255, 255, 0.2);
+    color: white;
+    border-radius: 10px;
+    box-shadow: 0 0 10px rgba(0, 0, 0, 0.1);
+    width: 100%;
+    max-width: 400px;
+}
+.image-opacity {
+    opacity: 0.2;
+}

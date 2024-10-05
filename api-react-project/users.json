@@ -1,0 +1,34 @@
+[
+  {
+    "username": "john_doe",
+    "password": "securepassword",
+    "dob": "1990-01-01"
+  },
+  {
+    "username": "1",
+    "password": "1",
+    "dob": "1"
+  },
+  {
+    "username": "2",
+    "password": "2",
+    "dob": "2",
+    "image": "https://firebasestorage.googleapis.com/v0/b/upload-files-d3b42.appspot.com/o/upload-files%2Fimages%2Fblackmyth-1723969364570.jpg?alt=media&token=7d51fe27-e860-44c8-ae9e-b2d86dc31382"
+  },
+  {
+    "username": "3",
+    "password": "3",
+    "dob": "3",
+    "image": "https://firebasestorage.googleapis.com/v0/b/upload-files-d3b42.appspot.com/o/upload-files%2Fimages%2Fblackmyth-1723969364570.jpg?alt=media&token=7d51fe27-e860-44c8-ae9e-b2d86dc31382"
+  },
+  {
+    "username": "a",
+    "password": "a",
+    "dob": "2003-12-08",
+    "image": ""
+  },  {
+    "username": "duy",
+    "password": "123",
+    "dob": "2024-09-02"
+  }
+]

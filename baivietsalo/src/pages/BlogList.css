@@ -1,0 +1,24 @@
+.container {
+    padding: 20px;
+    border-radius: 10px;
+}
+
+.card {
+    background-color: #574952;
+    border: none;
+    box-shadow: 0 4px 15px rgba(233, 39, 97, 0.5); 
+    transition: transform 0.2s;
+}
+
+.card:hover {
+    transform: translateY(-5px); 
+}
+
+.card-title {
+    color: #ffc107; 
+}
+
+
+
+
+

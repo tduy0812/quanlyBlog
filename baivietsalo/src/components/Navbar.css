@@ -1,0 +1,20 @@
+.navbar {
+  background-color: #fdbbc1;
+}
+
+.btn-outline-danger:hover {
+  background-color: #dc3545;
+  color: white;
+}
+
+.input-group {
+  width: 500px;
+}
+
+.navbar-brand {
+  margin-left: 10px;
+  margin-right: 10px;
+}
+.nav-item{
+  margin-right: 20px;
+}
